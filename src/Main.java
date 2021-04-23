@@ -17,7 +17,11 @@ public class Main {
 
         papagan.bilgiler();
 
+       
+        System.out.println("--Zürafanın Bilgileri--");
+		Zurafa zurafa= new Zurafa("Masai", "Afrika", 15);
 
+		zurafa.bilgiler();
 
     }
 

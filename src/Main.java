@@ -19,9 +19,9 @@ public class Main {
 
        
         System.out.println("--Zürafanın Bilgileri--");
-		Zurafa zurafa= new Zurafa("Masai", "Afrika", 15);
+	Zurafa zurafa= new Zurafa("Masai", "Afrika", 15);
 
-		zurafa.bilgiler();
+	zurafa.bilgiler();
 
     }
 
